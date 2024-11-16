@@ -1,0 +1,103 @@
+Book ID,Title,Author,Language,Genre,Publication Year,Publisher,Pages,ISBN,Price (INR),Rating,Reviews Count,Summary,Book Type,Available in Digital Format
+1,Shyamchi Aai,Shivaji Sawant,Marathi,Drama,1972,Mehta Publishing,250,978-93-5097-069-4,150,4.5,1200,The story of a son's love and respect for his mother and the challenges she faces in life,Fiction,Yes
+2,Godan,Premchand,Hindi,Social,1936,Navjivan Publishing,300,978-81-246-0823-7,100,4.7,2000,Depicts the life of a poor farmer and the struggles to maintain his land and family,Social,Yes
+3,Chandrakanta,Devaki Nandan Khatri,Hindi,Fantasy,1888,Rajkamal Prakashan,450,978-81-222-0714-3,250,4.3,1500,The story of magic,Fiction,Yes
+4,Mrityunjay,Shivaji Sawant,Marathi,Historical,1993,Mehta Publishing,380,978-81-8435-225-3,300,4.6,1000,A retelling of the story of Karna from Mahabharata,Historical,Yes
+5,Chhava,Shivaji Sawant,Marathi,Historical,2000,Mehta Publishing,350,978-81-8435-500-1,200,4.4,850,The story of Sambhaji Maharaj,Historical,Yes
+6,Raag Darbari,Sridhar Iyer,Hindi,Satire,1972,Navjivan Publishing,200,978-81-8682-446-5,120,4.2,300,A satire on the political scenario and bureaucracy in India,Satire,No
+7,Katha Ek Khandar Ki,Bhagwati Charan Verma,Hindi,Thriller,1946,Panchsheel Prakashan,320,978-81-8406-061-4,180,4.5,1100,A thrilling mystery about a haunted fort and its secrets,Thriller,No
+8,Swami,R. K. Narayan,Hindi,Social,1937,Indian Thought Publications,270,978-81-7343-008-1,120,4.3,800,The story of a boy's adventures in a small village,Social,Yes
+9,Mazha Pravas,Vishnu Sakharam Khandekar,Marathi,Travel,1945,Mehta Publishing,220,978-81-901011-3-0,140,4.4,900,The travelogue of the author’s journey through rural India,Non-fiction,No
+10,Chitralekha,Ranji,Marathi,Drama,1934,Rajhans Publications,160,978-81-7382-019-4,100,4.6,1200,A dramatic work about the complex relationships of love and morality,Drama,Yes
+11,Shubhamangala,Dnyaneshwar Padalkar,Marathi,Spiritual,1980,Muktai Prakashan,210,978-81-8475-920-2,160,4.8,1300,Discusses the philosophical thoughts and spiritual wisdom of the Marathi saints,Spiritual,Yes
+12,Tehniyat,Kamleshwar,Hindi,Drama,1982,India Today,280,978-81-8462-233-7,150,4.1,950,A reflection on societal changes and personal dilemmas,Drama,No
+13,Mrityunjay,Shivaji Sawant,Marathi,Historical,1993,Mehta Publishing,380,978-81-8435-225-3,300,4.7,800,A retelling of the story of Karna from Mahabharata,Historical,Yes
+14,Rajmohan's Wife,Bankim Chandra Chattopadhyay,Hindi,Romance,1864,Navjivan Publishing,350,978-81-2345-196-0,190,4.2,400,A romantic tale set in the backdrop of British colonial India,Romance,Yes
+15,Madhushala,Harivansh Rai Bachchan,Hindi,Poetry,1935,Poet's Press,150,978-81-2482-185-2,80,4.8,3000,Poetry reflecting life,Poetry,Yes
+16,Gitanjali,Rabindranath Tagore,Hindi,Poetry,1910,Visva-Bharati,220,978-81-207-5123-0,200,4.9,4000,The collection of Tagore's spiritual poems expressing devotion and humanity,Poetry,Yes
+61,Mazha Pravas,Vishnu Sakharam Khandekar,Marathi,Travel,1945,Mehta Publishing,220,978-81-2345-982-1,130,4.5,800,The travelogue of the author’s journey through rural India,Non-fiction,No
+62,Jeevan Ki Sadhana,Swami Vivekananda,Hindi,Spiritual,1896,India Book House,180,978-81-2116-074-3,100,4.8,1200,Philosophical teachings for leading a meaningful life,Spiritual,Yes
+63,Chandermukhi,Amrita Pritam,Hindi,Romance,1981,Navjivan Publishing,260,978-81-2122-674-5,160,4.4,950,The poignant love story set amidst political turmoil,Romance,Yes
+64,Katha Upanishad,Swami Sivananda,Hindi,Philosophy,1930,Sivananda Ashram,180,978-81-2116-079-8,80,4.9,1500,The eternal wisdom and teachings of the Katha Upanishad,Philosophy,Yes
+65,Antaral,Suresh Joshi,Marathi,Drama,1995,Shree Prakashan,280,978-81-2452-865-0,140,4.6,1000,A gripping drama about identity,Drama,Yes
+66,Ek Phool Do Mali,Ramji P. Jadhav,Hindi,Drama,1992,National Publishing House,230,978-81-2222-672-3,110,4.3,850,A symbolic story of the struggles of two people bound by love and fate,Drama,Yes
+67,Shubhamangala,Dnyaneshwar Padalkar,Marathi,Spiritual,1980,Muktai Prakashan,210,978-81-8475-920-2,160,4.8,1300,Discusses the philosophical thoughts and spiritual wisdom of the Marathi saints,Spiritual,Yes
+68,Premchand Ki Kahaniyan,Premchand,Hindi,Short Stories,1934,Panchsheel Press,290,978-81-2100-222-1,140,4.7,2000,A collection of stories focusing on social issues and human nature,Short Stories,Yes
+69,Shanti Path,Dr. Radhakrishnan,Marathi,Spiritual,1963,Shree Prakashan,180,978-81-2483-876-3,100,4.5,1500,Philosophical reflections and spiritual wisdom,Spiritual,Yes
+70,Shree Ramcharitmanas,Tulsidas,Hindi,Spiritual,1574,Shree Publications,600,978-81-2385-847-5,250,5,10000,The epic poem that narrates the life of Lord Ram,Spiritual,Yes
+71,Chandrakant,Devaki Nandan Khatri,Hindi,Fantasy,1888,Rajkamal Prakashan,450,978-81-222-0714-3,250,4.3,1500,The story of magic,Fiction,Yes
+72,Dharti Ka Ghar,Krishna Sobti,Hindi,Historical,1985,HarperCollins,310,978-81-7023-129-6,200,4.6,750,Historical fiction depicting the Partition of India,Historical,No
+73,Gaav Ki Galiyon Mein,Satish Chandra,Marathi,Drama,2005,Prakashan,270,978-81-7972-300-5,140,4.5,800,Depicts the life in a rural village,Drama,Yes
+74,Kaali Ghata,Khushwant Singh,Hindi,Social,1995,Oxford University Press,300,978-81-8420-024-1,180,4.3,1100,The story of the challenges faced by a divided country,Social,Yes
+75,Chhavi,Shivaji Sawant,Marathi,Drama,1992,Mehta Publishing,270,978-81-8425-203-5,120,4.5,800,A beautiful narrative about the shifting perceptions of beauty and its consequences,Drama,Yes
+76,Bade Ghar Ki Beti,Shashi Tharoor,Hindi,Drama,1997,HarperCollins,320,978-81-2342-568-4,150,4.2,850,A narrative about family,Drama,No
+77,Aadmi Ki Zindagi,Hindi,Social,1979,HarperCollins,270,978-81-2382-323-1,160,4,600,The social struggles of an ordinary man,Social,Yes,
+78,Paathshala,Shivaji Sawant,Marathi,Drama,1996,Mehta Publishing,280,978-81-8369-244-1,150,4.7,900,Drama on the changing educational system and its impact on society,Drama,Yes
+79,Nari Shakti,Kamala Das,Hindi,Poetry,2005,Shree Prakashan,150,978-81-2452-870-1,90,4.4,450,A collection of feminist poetry celebrating womanhood and empowerment,Poetry,Yes
+80,Abhiman,Sharad Joshi,Marathi,Drama,1983,Shubham Prakashan,220,978-81-2463-803-2,100,4.6,700,A heart-touching drama about love,Drama,Yes
+81,Vande Mataram,Bankim Chandra Chattopadhyay,Hindi,Patriotic,1882,Rajkamal Prakashan,180,978-81-8435-062-1,110,4.8,2000,The famous poem that ignited the flames of Indian nationalism,Poetry,Yes
+82,Sarfaroshi Ki Tamanna,Bismil Azimabadi,Hindi,Patriotic,1920,New Age Publishing,250,978-81-2041-126-4,120,4.6,1500,A patriotic poem calling for the revolution against British rule,Poetry,Yes
+83,Sandesh,Shubha Mudgal,Hindi,Music,2002,Sandeep Prakashan,200,978-81-2543-207-6,130,4.3,750,A music lover's collection of stories and songs in prose and verse,Music,Yes
+84,Sachchi Dosti,Harivansh Rai Bachchan,Hindi,Drama,1975,National Press,220,978-81-2346-975-2,110,4.4,900,Explores friendship and loyalty through everyday stories of trust and betrayal,Drama,No
+85,Pralay,Vaidehi,Marathi,Poetry,1985,Shree Prakashan,180,978-81-2382-492-4,100,4.2,1100,A collection of modern Marathi poems reflecting the agony and dreams of youth,Poetry,Yes
+86,Patni Ki Kahani,Mohammad Iqbal,Hindi,Short Stories,1950,Prabhat Prakashan,210,978-81-2342-656-1,110,4.5,500,Short stories based on the lives of everyday women in rural India,Short Stories,Yes
+87,Khushhali Ki Talash,Kamleshwar,Hindi,Social,1999,Prabhat Press,240,978-81-8487-251-4,150,4.6,1000,The story of the search for happiness in a turbulent socio-economic landscape,Social,Yes
+88,Purab Ki Raat,Surajmukhi,Marathi,Romance,1998,Shubham Prakashan,270,978-81-8463-710-8,160,4.4,700,A story of love,Romance,Yes
+89,Dhyana,Swami Vivekananda,Hindi,Spiritual,1899,Advaita Ashrama,200,978-81-2382-947-9,110,4.9,2500,Teachings on the power of meditation and spiritual focus,Spiritual,Yes
+90,Madhushala,Harivansh Rai Bachchan,Hindi,Poetry,1935,Poet's Press,150,978-81-2482-185-2,80,4.8,3000,Poetry reflecting life,Poetry,Yes
+91,Pandit Nehru Ki Kahaniyan,Jawaharlal Nehru,Hindi,Biography,1954,National Publishing House,320,978-81-2245-563-8,200,4.7,1800,Stories from the life of India's first Prime Minister,Biography,Yes
+92,Prithviraj Raso,Chand Bardai,Hindi,History,1200,,,,,,,,,
+93,Prithviraj Raso,Chand Bardai,Hindi,History,1200,Shree Prakashan,500,978-81-2253-005-6,250,4.7,1200,The epic ballad of the life and bravery of the Rajput king,History,Yes
+94,Raat Ki Raat,Shivaji Sawant,Marathi,Drama,1999,Mehta Publishing,280,978-81-8615-426-1,160,4.6,950,Drama that delves into the psychology of an individual under stress,Drama,Yes
+95,Gitanjali,Rabindranath Tagore,Hindi,Poetry,1910,National Book Trust,180,978-81-2374-610-8,100,4.9,5000,A collection of spiritual poems that won Tagore the Nobel Prize in Literature,Poetry,Yes
+96,Sundar Shashikala,R. K. Narayan,Hindi,Short Stories,1960,Jaico Publishing House,230,978-81-3203-314-0,150,4.4,850,Short stories from the famous Indian author set in the fictional town of Malgudi,Short Stories,Yes
+97,Kailas,Shankar Mahadevan,Hindi,Music,2007,Universal Music,250,978-81-7757-702-3,130,4.7,2000,A musical journey exploring the sacred Himalayan peaks and their spiritual significance,Music,Yes
+98,Majhi Jindagi,Shankar Patil,Marathi,Biography,1984,Shree Prakashan,270,978-81-2424-009-2,140,4.5,1100,A biography of the life and struggles of a common man in post-independence India,Biography,Yes
+99,Nai Duniya,Kamleshwar,Hindi,Social,1960,Rajkamal Prakashan,240,978-81-2127-145-7,150,4.6,950,A critique of the societal norms and issues in modern Indian society,Social,Yes
+100,Vishweshwar,Harivansh Rai Bachchan,Hindi,Poetry,1970,Prabhat Publications,210,978-81-2157-192-6,130,4.8,2000,A reflection on the meaning of life,Poetry,Yes
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+17,Kathasaritsagara,Somadeva,Hindi,Mythology,1070,Panchatantra Press,800,978-81-2211-745-1,500,4.4,2000,An ancient text containing tales of adventure and heroism,Mythology,Yes
+18,Barsaat Ki Raat,Krishna Chandra Pandey,Hindi,Drama,1947,National Press,320,978-81-2498-539-8,140,4.3,600,Story of love amidst the chaos of a raging storm,Drama,No
+19,Palwasha,Sabir Zafar,Hindi,Romance,2012,Shree Publishers,230,978-81-2345-907-2,110,4,800,A tale of intense and tragic love,Romance,Yes
+20,Mazya Manachi Shakti,Shubhangi Puranik,Marathi,Self-Help,2009,Shubham Publishers,150,978-81-2452-307-4,100,4.6,500,Helping individuals unlock their hidden potential and inner strength,Self-Help,Yes
+21,Nath Bai,Shankarrao Kharat,Marathi,Drama,1990,Kantipath,220,978-81-2122-565-3,130,4.2,450,A tragic love story filled with social and political commentary,Drama,No
+22,Neelkanth,Shivaji Sawant,Marathi,Historical,1987,Mehta Publishing,340,978-81-8435-612-9,200,4.7,700,The life of the legendary warrior Shivaji Maharaj’s trusted general,Historical,Yes
+23,Parineeta,Sarat Chandra Chattopadhyay,Hindi,Romance,1914,Panchsheel Publications,300,978-81-8436-529-5,160,4.3,1500,A tale of love and separation amidst societal pressure,Romance,Yes
+24,Kumudini,Sharad Joshi,Marathi,Drama,1980,Shubham Prakashan,250,978-81-9260-573-1,180,4.5,2000,An emotionally intense drama revolving around familial conflict,Drama,Yes
+25,Manache Shlok,Shankaracharya,Marathi,Spiritual,1500,Shree Prakashan,120,978-81-8273-907-4,90,4.8,10000,Philosophical teachings of Shankaracharya in poetic form,Spiritual,Yes
+26,Chhote Sheher Ka Bada Aadmi,Shiv Khera,Hindi,Self-Help,2000,McGraw-Hill,260,978-81-7473-204-3,130,4.6,2500,Inspiring guide for success and personal growth,Self-Help,Yes
+27,Panchatantra,Vishnu Sharma,Hindi,Mythology,300,978-81-2432-456-2,120,4.9,4500,Ancient Indian collection of interwoven animal fables,Mythology,Yes,,
+28,Taare Zameen Par,Amol Gupte,Hindi,Drama,2007,Shree Publishers,280,978-81-2347-111-2,160,4.7,2200,The emotional journey of a dyslexic child in a conventional school system,Drama,Yes
+29,Shree Gajanan Maharaj,Shankar,Marathi,Spiritual,1950,Shree Gajanan,200,978-81-2347-657-5,90,4.5,1500,The life and teachings of Saint Gajanan Maharaj,Spiritual,Yes
+31,Chandrakant,Devaki Nandan Khatri,Hindi,Fantasy,1888,Rajkamal Prakashan,450,978-81-222-0714-3,250,4.3,1500,The story of magic,Fiction,Yes
+32,Shivaraj,Shivaji Sawant,Marathi,Historical,2003,Mehta Publishing,400,978-81-8435-753-1,250,4.5,1000,Explores the life of the legendary Maratha warrior,Yes,Historical
+33,Amrit,Chandrakant Bakshi,Hindi,Poetry,1972,Rajkamal Prakashan,180,978-81-8887-627-0,100,4.7,900,A soulful collection of poems reflecting the essence of life and spirituality,Poetry,Yes
+34,Saudamini,Girish Karnad,Hindi,Drama,1989,Oxford University Press,260,978-81-203-3563-4,150,4.4,1100,A historical drama based on the life of a strong-willed woman from the ancient past,Drama,No
+35,Kaumudi,Shivaji Sawant,Marathi,Romance,1998,Mehta Publishing,280,978-81-8435-305-2,180,4.6,750,A tender love story exploring the relationship between a man and a woman,Romance,Yes
+36,Babu Gopinath,Harivansh Rai Bachchan,Hindi,Biography,1965,Prabhat Prakashan,300,978-81-2347-876-1,120,4.2,950,A biography of an unsung hero of the independence movement,Biography,No
+37,Purushartha,Madhav Khandekar,Marathi,Philosophy,2002,Shree Publishers,220,978-81-8536-249-3,130,4.5,400,Philosophical thoughts on ethics,Philosophy,Yes
+38,Kailas Sadhana,Swami Vivekananda,Hindi,Spiritual,1904,Prabhakari Publications,200,978-81-2393-852-5,90,4.8,3000,Explores the spiritual journey of Swami Vivekananda on Mount Kailash,Spiritual,Yes
+39,Anand Yatra,Kishore V. Kulkarni,Marathi,Self-Help,2008,Shree Prakashan,150,978-81-9003-320-9,100,4.3,600,A motivational guide for leading a peaceful and successful life,Self-Help,Yes
+40,Katha Kahaniyan,Premchand,Hindi,Short Stories,1940,Panchsheel Press,300,978-81-2574-234-6,120,4.4,1500,A collection of short stories depicting the struggles and resilience of common people,Short Stories,No
+41,Gaav Ki Galiyon Mein,Satish Chandra,Marathi,Drama,2005,Prakashan,270,978-81-7972-300-5,140,4.5,800,Depicts the life in a rural village,Drama,Yes
+42,Parampurush,Dr. Radhakrishnan,Marathi,Spiritual,1960,Mehta Publishing,280,978-81-2347-111-2,100,4.7,1000,A deep dive into the teachings of spiritual leaders and their relevance in modern life,Spiritual,Yes
+43,Sapna,Madhuri Pundalik,Marathi,Romance,1992,Shubham Prakashan,250,978-81-8690-304-4,130,4.6,600,Love and longing in a beautiful village setting,Romance,Yes
+44,Mitti Ki Khushboo,Surendra Verma,Hindi,Drama,1997,National Publishing House,230,978-81-2509-576-7,110,4.4,850,Drama set against rural Indian life,Drama,Yes
+45,Anubhav,Dr. S. N. Tiwari,Hindi,Philosophy,1985,Oxford Press,260,978-81-7247-148-3,140,4.3,700,Reflects the meaning of experience and its role in human development,Philosophy,Yes
+46,Jeev Dnyan,Shankaracharya,Marathi,Spiritual,1955,Shree Prakashan,190,978-81-8435-028-3,95,4.6,1200,A collection of teachings and wisdom on life from the great Shankaracharya,Spiritual,Yes
+47,Satyagraha,Shivendra P. Deshmukh,Marathi,History,2001,Vidya Prakashan,330,978-81-8475-911-2,200,4.8,500,The story of the non-violent independence movement led by Mahatma Gandhi,History,Yes
+48,Aap Ki Awaaz,Shashi Tharoor,Hindi,Social,2010,Macmillan,270,978-81-8041-202-9,190,4.2,800,Social commentary on India's evolving democracy and media’s role,Social,No
+49,Chalte Chalte,Shivaji Sawant,Marathi,Drama,1996,Mehta Publishing,280,978-81-8435-194-5,150,4.7,650,Explores human emotions and relationships through the story of a journey,Drama,Yes
+50,Dehati Jeevan,Gauri Ma,Marathi,Social,1960,Shree Prakashan,200,978-81-8453-190-5,120,4.6,900,The life and struggles of a rural Indian woman,Social,Yes
+51,Shakti Ka Prabandh,Kamala Das,Hindi,Self-Help,1999,Prabhat Prakashan,210,978-81-2217-700-3,130,4.4,700,Empowering women to achieve success and independence in life,Self-Help,Yes
+52,Manusmruti,Dr. B.R. Ambedkar,Hindi,Philosophy,1951,Ambedkar Publications,350,978-81-2136-493-1,200,4.5,500,Ambedkar's reinterpretation of the Manusmruti with a focus on social justice,Philosophy,No
+53,Chhote Sheher Ka Bada Aadmi,Shiv Khera,Hindi,Self-Help,2000,McGraw-Hill,260,978-81-7473-204-3,130,4.6,2500,Inspiring guide for success and personal growth,Self-Help,Yes
+54,Mazya Manachi Shakti,Shubhangi Puranik,Marathi,Self-Help,2009,Shubham Publishers,150,978-81-2452-307-4,100,4.6,500,Helping individuals unlock their hidden potential and inner strength,Self-Help,Yes
+55,Raag Darbari,Sridhar Iyer,Hindi,Satire,1972,Navjivan Publishing,200,978-81-8682-446-5,120,4.2,300,A satire on the political scenario and bureaucracy in India,Satire,No
+56,Kaun Banega Crorepati?,Sandeep Goyal,Hindi,Trivia,2000,Shree Publications,150,978-81-2072-034-5,110,4,850,Trivia about India's most popular television quiz show,Trivia,Yes
+57,Baithi Baithi Baatein,Shashi Tharoor,Hindi,Essays,2015,HarperCollins,350,978-81-7227-805-2,210,4.5,1500,Essays on India’s social,Essays,Yes
+58,Dusra Tohfa,Kamleshwar,Hindi,Drama,1982,Rajkamal Prakashan,320,978-81-2062-317-1,160,4.3,400,An allegorical drama about greed and human nature,Drama,No
+59,Jeevan Yatra,Swami Vivekananda,Hindi,Spiritual,1898,India Book House,250,978-81-8519-199-8,140,4.7,2200,Swami Vivekananda’s reflections on the journey of life and spirituality,Spiritual,Yes
+60,Vishnu Sahasranama,Dr. Radhakrishnan,Marathi,Spiritual,1965,Shree Prakashan,170,978-81-2381-883-5,80,4.9,3000,The thousand names of Lord Vishnu,Spiritual,Yes
+61,Mazha Pravas,Vishnu Sakharam Khandekar,Marathi,Travel,,,,,,,,,,
