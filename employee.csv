@@ -1,0 +1,106 @@
+Employee_ID,First_Name,Last_Name,Gender,Date_of_Birth,Hire_Date,Department,Job_Title,Salary,Performance_Score,Manager_ID,Work_Location,Years_with_Company,Employment_Status,Last_Promotion_Date
+1,John,Doe,Male,1985-08-15,2010-03-12,IT,Software Engineer,75000,85,10,Office,14,Full-time,2022-05-20
+2,Jane,Smith,Female,1990-04-20,2015-07-01,HR,HR Specialist,60000,90,15,Remote,9,Full-time,2021-10-15
+3,Mike,Johnson,Male,1980-11-10,2005-09-30,Sales,Sales Manager,90000,88,5,Hybrid,19,Full-time,2023-01-30
+4,Emily,White,Female,1993-02-25,2018-11-20,Marketing,Marketing Manager,72000,92,6,Office,6,Full-time,2023-03-01
+5,David,Lee,Male,1987-07-12,2012-06-15,Finance,Financial Analyst,65000,80,12,Remote,12,Full-time,2020-07-25
+6,Olivia,Brown,Female,1995-10-05,2020-03-30,Operations,Operations Coordinator,57000,78,8,Hybrid,4,Part-time,2023-02-12
+7,Liam,Green,Male,1989-01-21,2014-05-01,IT,System Administrator,78000,87,3,Office,10,Full-time,2022-07-18
+8,Isabella,Martinez,Female,1992-06-11,2016-09-22,HR,Recruiter,61000,84,4,Remote,8,Full-time,2021-09-10
+9,Lucas,Lopez,Male,1986-12-01,2009-11-25,Sales,Sales Representative,55000,75,9,Hybrid,15,Full-time,2022-01-05
+10,Amelia,Wilson,Female,1991-03-17,2017-07-19,Marketing,Content Strategist,69000,91,2,Office,7,Full-time,2022-11-08
+Employee_ID,First_Name,Last_Name,Gender,Date_of_Birth,Hire_Date,Department,Job_Title,Salary,Performance_Score,Manager_ID,Work_Location,Years_with_Company,Employment_Status,Last_Promotion_Date
+11,James,Davis,Male,1990-02-10,2014-07-24,Finance,Accounting Clerk,55000,80,7,Remote,10,Full-time,2021-12-15
+12,Sophia,Garcia,Female,1986-05-01,2012-04-12,IT,Network Engineer,82000,89,3,Hybrid,12,Full-time,2022-09-01
+13,Ethan,Martinez,Male,1982-10-29,2008-01-30,Operations,Logistics Manager,95000,90,4,Office,16,Full-time,2023-06-20
+14,Ava,Moore,Female,1994-07-17,2017-11-03,HR,HR Assistant,50000,85,12,Remote,7,Full-time,2022-03-11
+15,Noah,Taylor,Male,1983-11-22,2010-08-19,Sales,Senior Sales Executive,96000,88,10,Hybrid,14,Full-time,2021-08-30
+16,Grace,Anderson,Female,1991-05-30,2016-12-08,Marketing,SEO Specialist,67000,85,6,Office,8,Full-time,2023-02-25
+17,Oliver,Thomas,Male,1988-04-03,2013-05-19,Finance,Financial Planner,75000,83,2,Remote,11,Full-time,2022-10-09
+18,Mia,Jackson,Female,1996-03-22,2019-01-11,Sales,Sales Associate,58000,77,13,Hybrid,5,Full-time,2023-04-10
+19,Benjamin,White,Male,1987-12-14,2011-06-02,IT,IT Consultant,95000,92,9,Office,13,Full-time,2022-12-01
+20,Charlotte,Harris,Female,1992-06-29,2018-07-15,Operations,Operations Manager,105000,95,8,Remote,6,Full-time,2023-03-18
+21,Henry,Clark,Male,1985-11-03,2010-09-13,Marketing,Brand Manager,78000,90,5,Hybrid,14,Full-time,2021-11-11
+22,Lily,Roberts,Female,1993-02-22,2017-05-30,HR,Compensation Specialist,64000,88,6,Office,7,Full-time,2023-01-25
+23,Alexander,King,Male,1984-01-10,2009-12-15,Finance,Tax Consultant,95000,91,3,Remote,15,Full-time,2022-06-18
+24,Chloe,Lewis,Female,1995-08-17,2019-06-03,IT,Frontend Developer,74000,86,7,Office,5,Full-time,2022-07-29
+25,Jack,Young,Male,1992-09-14,2015-02-20,Sales,Account Manager,82000,89,8,Hybrid,9,Full-time,2022-02-10
+26,Harper,Allen,Female,1990-04-07,2014-06-30,Marketing,Digital Marketing Specialist,67000,80,4,Remote,10,Full-time,2021-05-22
+27,Daniel,Scott,Male,1987-12-06,2011-11-13,Operations,Supply Chain Analyst,73000,84,12,Hybrid,13,Full-time,2022-12-05
+28,Amelia,Adams,Female,1989-10-01,2012-02-27,HR,HR Manager,88000,90,9,Office,12,Full-time,2023-05-17
+29,Matthew,Baker,Male,1984-01-13,2010-09-30,IT,Cloud Engineer,95000,91,5,Hybrid,14,Full-time,2023-01-20
+30,Samuel,Gonzalez,Male,1991-12-20,2016-10-10,Sales,Sales Director,110000,95,3,Office,8,Full-time,2022-09-07
+31,Isabella,Mitchell,Female,1994-03-14,2019-03-04,Operations,Operations Coordinator,63000,82,13,Remote,5,Full-time,2022-05-11
+32,William,Carter,Male,1983-09-29,2008-05-14,Finance,Investment Analyst,96000,92,8,Office,16,Full-time,2023-02-28
+33,Scarlett,Phillips,Female,1986-07-10,2011-08-18,Marketing,Content Manager,78000,85,5,Hybrid,13,Full-time,2023-04-03
+34,Henry,Evans,Male,1988-10-23,2015-05-02,Sales,Regional Sales Manager,105000,94,4,Remote,9,Full-time,2022-08-15
+35,Lily,Morris,Female,1991-11-05,2018-04-22,HR,Training Specialist,64000,80,6,Office,6,Full-time,2023-07-19
+36,Jake,Rodriguez,Male,1993-02-11,2017-01-06,IT,Database Administrator,80000,87,7,Hybrid,7,Full-time,2023-05-05
+37,Chloe,Walker,Female,1992-05-23,2016-07-12,Operations,Logistics Specialist,67000,85,9,Office,8,Full-time,2022-12-12
+38,Jack,Allen,Male,1989-09-03,2012-11-11,Sales,Account Executive,75000,78,11,Remote,12,Full-time,2023-03-22
+39,Matthew,Green,Male,1985-02-18,2009-04-27,Finance,Corporate Finance Analyst,105000,91,10,Hybrid,15,Full-time,2021-10-25
+40,Ava,Collins,Female,1996-08-06,2019-12-14,Marketing,Brand Coordinator,62000,80,2,Office,5,Full-time,2023-06-17
+Employee_ID,First_Name,Last_Name,Gender,Date_of_Birth,Hire_Date,Department,Job_Title,Salary,Performance_Score,Manager_ID,Work_Location,Years_with_Company,Employment_Status,Last_Promotion_Date
+41,Matthew,Wilson,Male,1994-01-02,2020-08-10,Sales,Sales Support Specialist,51000,78,13,Hybrid,4,Full-time,2023-04-13
+42,Charlotte,Young,Female,1987-11-12,2012-07-19,Finance,Financial Analyst,74000,86,10,Remote,12,Full-time,2022-11-15
+43,Jacob,Martinez,Male,1995-06-22,2018-03-15,Marketing,Marketing Specialist,65000,84,8,Hybrid,6,Full-time,2023-05-22
+44,Emily,Lopez,Female,1988-07-25,2015-10-02,IT,Technical Support,58000,80,4,Office,9,Full-time,2022-10-05
+45,Daniel,Hernandez,Male,1990-09-15,2016-01-22,Operations,Warehouse Manager,72000,89,9,Hybrid,8,Full-time,2023-02-17
+46,Olivia,Lee,Female,1994-03-08,2017-09-12,Sales,Inside Sales Rep,53000,82,11,Office,7,Full-time,2022-12-05
+47,Lucas,Walker,Male,1989-12-04,2012-06-11,Finance,Investment Banker,105000,91,3,Hybrid,12,Full-time,2022-08-14
+48,Grace,Green,Female,1991-04-27,2018-02-05,Marketing,SEO Manager,76000,85,6,Remote,6,Full-time,2023-07-10
+49,Jack,Carter,Male,1996-10-30,2021-01-10,Operations,Customer Service Manager,62000,84,5,Office,3,Full-time,2023-06-01
+50,Sophie,Wilson,Female,1986-06-11,2011-03-25,IT,Cloud Architect,115000,93,2,Hybrid,13,Full-time,2023-01-08
+51,Thomas,Adams,Male,1989-05-20,2014-09-15,Sales,Key Account Manager,85000,87,10,Hybrid,10,Full-time,2022-05-15
+52,Chloe,Roberts,Female,1994-01-02,2020-07-29,HR,HR Coordinator,63000,81,3,Office,4,Full-time,2023-01-10
+53,Benjamin,Perez,Male,1992-03-17,2015-10-10,IT,Software Developer,88000,89,5,Hybrid,9,Full-time,2022-07-18
+54,Amelia,King,Female,1987-12-02,2011-02-08,Finance,Finance Director,120000,94,4,Office,13,Full-time,2023-04-22
+55,William,Scott,Male,1985-07-25,2009-03-30,Marketing,Public Relations Manager,98000,91,6,Remote,15,Full-time,2021-11-20
+56,Ella,Moore,Female,1993-02-18,2019-10-21,HR,HR Assistant,57000,79,10,Hybrid,5,Full-time,2022-09-16
+57,Leo,Jackson,Male,1988-04-25,2014-11-13,Operations,Project Manager,85000,90,2,Office,10,Full-time,2023-03-17
+58,Sophia,Martinez,Female,1996-07-05,2020-08-17,Sales,Sales Representative,52000,80,12,Hybrid,4,Full-time,2023-02-10
+59,Isaac,Clark,Male,1990-09-21,2016-02-28,IT,DevOps Engineer,90000,92,8,Office,8,Full-time,2022-12-12
+60,Leah,Taylor,Female,1993-05-15,2017-05-22,HR,Recruiter,61000,85,6,Hybrid,7,Full-time,2022-11-01
+61,Mason,Johnson,Male,1991-01-14,2013-10-05,Operations,Operations Analyst,77000,86,4,Remote,11,Full-time,2022-08-27
+62,Charlotte,Hernandez,Female,1988-03-30,2012-07-23,Sales,Sales Executive,95000,90,9,Office,12,Full-time,2023-05-04
+63,Nathan,Moore,Male,1995-08-05,2021-02-12,Marketing,Content Strategist,67000,87,11,Remote,3,Full-time,2023-06-23
+64,Amelia,Jackson,Female,1991-07-18,2017-01-03,Finance,Accounting Manager,90000,88,8,Hybrid,7,Full-time,2023-04-05
+65,Matthew,Perez,Male,1987-12-19,2014-06-30,HR,Compensation Analyst,72000,84,10,Office,10,Full-time,2022-09-14
+66,Avery,Evans,Female,1992-11-09,2016-03-20,Operations,Logistics Specialist,68000,80,12,Remote,8,Full-time,2023-02-22
+67,James,Wilson,Male,1984-02-14,2010-08-24,Sales,Regional Sales Director,115000,92,4,Hybrid,14,Full-time,2023-01-15
+68,Ethan,Lee,Male,1994-10-01,2017-02-15,IT,Security Specialist,85000,89,6,Office,7,Full-time,2022-11-03
+69,Isabella,Moore,Female,1990-04-12,2013-12-10,HR,HR Business Partner,88000,91,3,Hybrid,11,Full-time,2023-07-18
+70,Leo,Walker,Male,1992-01-22,2016-04-07,Finance,Corporate Strategist,105000,93,2,Hybrid,8,Full-time,2023-04-27
+71,Chloe,Wilson,Female,1991-12-03,2014-05-11,Sales,Sales Manager,98000,91,9,Remote,10,Full-time,2022-08-10
+72,Jack,Martinez,Male,1989-02-19,2015-08-26,Operations,Operations Supervisor,79000,85,8,Office,9,Full-time,2022-12-01
+73,Ava,Thompson,Female,1993-05-05,2017-06-23,IT,Web Developer,75000,80,10,Hybrid,7,Full-time,2023-06-02
+74,David,White,Male,1995-06-14,2019-12-05,Finance,Tax Manager,95000,89,7,Remote,5,Full-time,2023-01-25
+75,Mia,Gonzalez,Female,1992-03-25,2017-08-01,HR,Learning & Development Specialist,68000,81,4,Hybrid,7,Full-time,2023-04-10
+76,Benjamin,Adams,Male,1987-11-10,2012-01-22,Marketing,Advertising Manager,88000,90,6,Office,12,Full-time,2022-10-30
+77,James,Walker,Male,1994-02-17,2019-11-03,IT,IT Technician,72000,84,9,Remote,5,Full-time,2023-03-09
+78,Charlotte,Johnson,Female,1989-08-22,2012-10-17,Finance,Financial Planner,85000,86,4,Hybrid,12,Full-time,2022-09-02
+79,Elijah,Harris,Male,1990-05-14,2014-04-26,Sales,Area Sales Manager,95000,91,3,Office,10,Full-time,2023-05-12
+80,Scarlett,Green,Female,1987-09-01,2011-03-09,Operations,Facilities Manager,82000,88,
+Employee_ID,First_Name,Last_Name,Gender,Date_of_Birth,Hire_Date,Department,Job_Title,Salary,Performance_Score,Manager_ID,Work_Location,Years_with_Company,Employment_Status,Last_Promotion_Date
+81,Lucas,Evans,Male,1989-01-12,2014-06-01,IT,IT Support Specialist,67000,82,7,Remote,10,Full-time,2023-02-12
+82,Emily,Clark,Female,1992-07-30,2016-05-10,Finance,Investment Analyst,84000,87,8,Office,8,Full-time,2022-12-22
+83,Michael,Baker,Male,1984-03-18,2010-02-14,Sales,Sales Executive,78000,85,3,Hybrid,14,Full-time,2022-07-20
+84,Mia,Adams,Female,1993-11-05,2017-03-22,Marketing,Marketing Analyst,71000,84,9,Office,7,Full-time,2023-05-10
+85,Daniel,Harris,Male,1990-08-21,2013-11-12,HR,HR Generalist,74000,86,6,Hybrid,11,Full-time,2023-03-02
+86,Sophie,Wilson,Female,1986-12-30,2011-06-15,Sales,Regional Sales Manager,105000,93,4,Remote,13,Full-time,2022-09-15
+87,David,Johnson,Male,1991-04-09,2014-11-19,Operations,Operations Director,95000,90,2,Office,10,Full-time,2023-01-28
+88,Chloe,Evans,Female,1989-02-17,2015-09-28,Marketing,Product Manager,85000,91,7,Hybrid,9,Full-time,2022-10-10
+89,William,Green,Male,1988-07-12,2012-04-25,Finance,Senior Accountant,88000,92,3,Office,12,Full-time,2023-06-08
+90,Lily,Jackson,Female,1995-01-20,2020-07-14,IT,Data Scientist,95000,93,8,Hybrid,4,Full-time,2023-04-25
+91,Mason,Lee,Male,1990-10-25,2017-09-06,Sales,Senior Account Manager,98000,94,5,Remote,7,Full-time,2022-11-19
+92,Amelia,Walker,Female,1991-05-17,2014-02-11,Operations,Warehouse Coordinator,72000,80,6,Office,10,Full-time,2023-03-05
+93,Isabella,Martin,Female,1993-06-22,2018-08-14,HR,Payroll Specialist,69000,84,3,Hybrid,6,Full-time,2022-12-11
+94,Oliver,Roberts,Male,1992-02-10,2016-12-23,Finance,Audit Manager,110000,92,2,Remote,8,Full-time,2023-02-18
+95,Ava,Scott,Female,1994-08-17,2020-01-09,Sales,Sales Development Rep,65000,81,4,Office,4,Full-time,2023-05-29
+96,James,Lee,Male,1986-09-04,2010-03-28,IT,Systems Architect,105000,94,2,Hybrid,14,Full-time,2023-01-10
+97,Sophia,Walker,Female,1988-11-20,2013-07-03,Marketing,Marketing Director,115000,95,1,Office,11,Full-time,2022-06-25
+98,Henry,Thomas,Male,1990-03-17,2014-12-12,Sales,Sales Operations Manager,99000,88,5,Hybrid,10,Full-time,2023-04-06
+99,Mason,Perez,Male,1991-06-01,2016-11-29,Operations,Product Operations Manager,89000,87,6,Remote,8,Full-time,2022-11-12
+100,Chloe,Anderson,Female,1992-04-02,2015-03-16,IT,UI/UX Designer,76000,90,4,Office,9,Full-time,2023-02-02
+
+
